@@ -1,0 +1,16 @@
+/* ul a {
+    text-align: center;
+    
+} */
+@media screen and (max-width: 768px) {
+ 
+ul{
+    background-color: powderblue;
+    color: white;
+}
+ul li{
+    border-bottom: 1px solid black;
+}   
+}
+
+  
